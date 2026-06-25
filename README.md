@@ -81,22 +81,6 @@ Microsoft Excel
 Data Visualization
 Business Intelligence
 
-# Project Structure 
-swiggy-sales-analytics-dashboard
-│
-├── Dashboard
-│   └── Swiggy_Sales_Dashboard.pbix
-│
-├── Dataset
-│   └── Swiggy_Data.xlsx
-│
-├── Images
-│   └── dashboard-overview.png
-│
-├── README.md
-└── LICENSE
-
-
 # Business Problem  
 
 Food delivery platforms generate large volumes of sales and customer data daily. Without proper analysis, identifying trends, customer preferences, and high-performing regions becomes difficult.
