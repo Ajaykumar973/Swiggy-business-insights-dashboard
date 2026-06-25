@@ -73,13 +73,6 @@ Both Veg and Non-Veg categories contributed significantly to total sales.
 Non-Veg orders generated slightly higher revenue compared to Veg orders.
 5. Customer Satisfaction
 Average customer rating remained consistently high at 4.34, indicating strong customer satisfaction.
-🛠️ Tools & Technologies Used
-Power BI
-Power Query
-DAX
-Microsoft Excel
-Data Visualization
-Business Intelligence
 
 # Business Problem  
 
