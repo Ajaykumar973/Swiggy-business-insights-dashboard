@@ -118,9 +118,7 @@ Real-Time Data Integration
 
 # Dashboard Preview 
 
-Add screenshots in the Images folder and display them using:
-
-![Dashboard](Images/dashboard-overview.png)
+![Swiggy Sales Analytics Dashboard](Dashboard.png)
 
  # Author 
  
